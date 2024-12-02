@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hey at 16:43 pm.
 Hey from login branch at 16:45 pm.
 hey from master at 16:47 pm.
 Hey from master at 16:48 om.
+=======
+How are you?
+>>>>>>> signup
